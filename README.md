@@ -18,8 +18,11 @@ This paper investigates the seismic performance of intermediate moment-resisting
 
 This paper can be downloaded from these websites too:
 
+[PDF](http://scientiairanica.sharif.edu/article_22691_993befca336977203ca70b8501d19bf6.pdf)
+
 [GoogleScholar](https://scholar.google.com/scholar?cluster=2392821708946090612&hl=en&as_sdt=0,5)
 
 [ResearchGate](https://www.researchgate.net/publication/359707139_Probabilistic_collapse_assessment_of_steel_frame_structures_considering_the_effects_of_soil-structure_interaction_and_height)
 
 [Scientia](http://scientiairanica.sharif.edu/article_22691.html)
+
